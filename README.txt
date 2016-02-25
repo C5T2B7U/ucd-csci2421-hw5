@@ -1,7 +1,7 @@
 ##############################################################################
 #  BRIAN SUMNER                                                              #
 #  xxxxx6936                                                                 #
-#  UCD CSCI 2421-E01                                                             #
+#  UCD CSCI 2421-E01                                                         #
 #  SPRING 2016                                                               #
 #  HW4: 6936HW5->README.txt                                                  #
 ##############################################################################
@@ -84,7 +84,7 @@ The program was developed and tested on GNU g++ 4:4.8.2-1ubuntu6 using Linux
 
 
 
-STEP 1:   Copy the "6936_IMPLANT_HELIX_HW5.cpp" file into an empty directory.
+STEP 1:   Copy the "6936_HELIX_HW5.cpp" file into an empty directory.
 
 
 
